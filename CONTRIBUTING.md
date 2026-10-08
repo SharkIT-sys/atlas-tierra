@@ -1,22 +1,26 @@
 # Contribuir a Atlas Tierra
 
-Usa Node.js 22.12 o posterior y `npm ci`. Inicia el entorno con `npm run dev`.
+## Entorno de desarrollo
 
-Antes de proponer cambios, ejecuta:
+El proyecto requiere Node.js 22.12 o posterior. `npm ci` instala las dependencias y `npm run dev` inicia el servidor local.
+
+## Comprobaciones
 
 ```sh
 npm run check
 npm run test:e2e
 ```
 
-En Linux instala antes Chromium con `npx playwright install --with-deps chromium`. En Windows se utiliza Edge por defecto. Puedes seleccionar otro canal con `PLAYWRIGHT_CHANNEL`.
+Las pruebas de navegador utilizan Edge en Windows y Chromium en Linux. En Linux, la instalación se realiza con `npx playwright install --with-deps chromium`. La variable `PLAYWRIGHT_CHANNEL` permite seleccionar otro canal.
 
-Describe el problema, el cambio y las comprobaciones realizadas en la pull request. Para cambios de interfaz, incluye capturas de escritorio y móvil. Evita subir compilaciones, credenciales, perfiles del navegador o resultados temporales.
+## Pull requests
 
-## Cambios en datos e imágenes
+Las contribuciones incluyen una descripción del cambio y las comprobaciones realizadas. Los cambios visuales se acompañan de capturas de escritorio y móvil. Las compilaciones, credenciales y resultados temporales quedan fuera del repositorio.
 
-Sigue el procedimiento de [README.md](README.md#añadir-o-actualizar-información): añade fuentes verificables por campo, distingue relaciones orgánicas y agrupaciones, y conserva contradicciones y datos pendientes. No deduzcas contactos o ubicaciones a partir de la unidad superior.
+## Catálogo y recursos gráficos
 
-Para imágenes, registra la fuente, autoría, licencia y modificaciones tanto en los datos como en `public/shields/credits.json`. Ejecuta `npm run validate-data`. La licencia MIT no sustituye las licencias de los recursos de terceros.
+El [modelo de datos](docs/data-model.md) describe las unidades, instalaciones, relaciones y referencias. Las actualizaciones del catálogo incluyen la procedencia de los campos modificados y su fecha de consulta.
 
-Los scripts de importación documental son herramientas de mantenimiento que pueden modificar el catálogo. Consulta [docs/maintenance.md](docs/maintenance.md) antes de ejecutarlos.
+Los escudos incluyen autoría, fuente, licencia y modificaciones en `public/shields/credits.json`. Sus licencias se conservan de forma independiente a la licencia MIT del código.
+
+Las herramientas de importación y sus requisitos se describen en la [guía de mantenimiento](docs/maintenance.md).

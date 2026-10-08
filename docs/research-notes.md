@@ -1,6 +1,6 @@
 # Notas de revisión documental
 
-Consulta: 2026-10-08. Se consultaron manualmente fuentes públicas oficiales; no se efectuó un rastreo automático de unidades.
+Consulta: 2026-10-08. Las referencias del catálogo proceden de fuentes públicas oficiales.
 
 - BOE-A-2020-8636, texto consolidado: base de las dependencias superiores. Última modificación mostrada: 11/06/2024. Incluye Jefatura del Ciberespacio y de los Servicios de Asistencia Técnica y Dirección de Ingeniería del MALE.
 - Página de Apoyo a la Fuerza: no enumera todavía dicha Dirección de Ingeniería. Se conserva como fuente contextual y se prioriza BOE.
@@ -10,9 +10,9 @@ Consulta: 2026-10-08. Se consultaron manualmente fuentes públicas oficiales; no
 - Castillejos: su localización corresponde al Cuartel General. Teléfono de comunicación restringido a prensa, claramente etiquetado. No se recopilan los móviles y otros contactos incluidos en la página.
 - El Goloso: la pareja de cifras de la página RAC61 es ambigua en el signo de la longitud. Se usan los centros del mapa público insertado por BRI XII, documentados en la ficha; no se usan como coordenadas precisas.
 - Centros de formación: el directorio incluye una descripción duplicada de Ingenieros bajo Artillería. Se utiliza el párrafo específico de Artillería y el artículo 30 para el encuadre docente. La AGM documenta también expresamente su dependencia en su historial.
-- Los escudos de Commons documentan autor y licencia. La ausencia de otros escudos no autoriza reutilizar imágenes sin permiso.
+- Los escudos de Commons documentan autor y licencia. Los recursos incorporados conservan sus atribuciones.
 
-La cobertura no es exhaustiva. Fechas, lemas, patrones, historia, contactos y material permanecen vacíos cuando no hay evidencia incorporada. No debe confundirse «consultado hoy» con «actualizado hoy por el organismo».
+La cobertura no es exhaustiva. Fechas, lemas, patrones, historia, contactos y material permanecen vacíos cuando no hay evidencia incorporada. La fecha de consulta y la fecha de actualización de la fuente son datos distintos.
 
 ## Ampliación del 8 de octubre
 
@@ -25,7 +25,7 @@ La primera ampliación añadió seis instalaciones y diez escudos. En la revisi�
 Se enriquecieron 72 registros con historia, misión, descripción, material, instalaciones o contactos según la evidencia disponible. Se añadieron Badajoz I/62, Guipúzcoa I/45, Montejurra I/66, Pirineos I/64 y Mérida I/16. El catálogo contiene 76 unidades de estos niveles; no constituye un inventario exhaustivo del Ejército.
 
 - Tercio 3: se adopta el 21 de diciembre de 1939 como fecha oficial de creación, según la explicación de la Revista Ejército 886 sobre la resolución del EME de 2006. Se distingue de la fecha de enero de 1940 usada anteriormente.
-- BHELMA III: las fuentes discrepan sobre el día de creación; se documenta 1974 sin inventar una fecha exacta.
+- BHELMA III: las fuentes discrepan sobre el día de creación; el catálogo registra el año 1974.
 - Nápoles 4 y Zaragoza 5: la creación de los regimientos actuales se distingue de la antigüedad de sus banderas y de sus antecedentes históricos.
 - Galicia 64: se diferencia la antigüedad reconocida de 1560 de la organización de 1566.
 - Las previsiones de incorporación del VCR Dragón se presentan como planes, no como entregas completadas.
