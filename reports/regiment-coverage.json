@@ -1,0 +1,1126 @@
+{
+  "reviewedAt": "2026-10-08",
+  "units": 191,
+  "shields": 53,
+  "targetUnits": 76,
+  "coverage": [
+    {
+      "id": "rac61",
+      "name": "Regimiento Acorazado «Alcázar de Toledo» nº 61",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": true,
+      "location": true,
+      "contacts": 3,
+      "sources": 3
+    },
+    {
+      "id": "leon",
+      "name": "Batallón de Infantería de Carros de Combate «León» I/61",
+      "shield": true,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "asturias",
+      "name": "Regimiento de Infantería «Asturias» nº 31",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": true,
+      "equipment": false,
+      "location": true,
+      "contacts": 1,
+      "sources": 4
+    },
+    {
+      "id": "covadonga",
+      "name": "Batallón de Infantería Mecanizada «Covadonga» I/31",
+      "shield": true,
+      "history": false,
+      "mission": true,
+      "description": false,
+      "equipment": true,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "uadras",
+      "name": "Batallón de Infantería Protegida «Uad-Ras» II/31",
+      "shield": true,
+      "history": false,
+      "mission": true,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "bz12",
+      "name": "Batallón de Zapadores XII",
+      "shield": true,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "bcg12",
+      "name": "Batallón de Cuartel General XII",
+      "shield": true,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "napoles",
+      "name": "Regimiento de Infantería «Nápoles» nº 4",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": true,
+      "location": true,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "zaragoza",
+      "name": "Regimiento de Infantería «Zaragoza» nº 5",
+      "shield": true,
+      "history": true,
+      "mission": false,
+      "description": true,
+      "equipment": false,
+      "location": true,
+      "contacts": 2,
+      "sources": 3
+    },
+    {
+      "id": "lusitania",
+      "name": "Regimiento de Caballería «Lusitania» nº 8",
+      "shield": true,
+      "history": true,
+      "mission": false,
+      "description": true,
+      "equipment": true,
+      "location": true,
+      "contacts": 2,
+      "sources": 5
+    },
+    {
+      "id": "galicia64",
+      "name": "Regimiento de Infantería «Galicia» nº 64",
+      "shield": true,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 1,
+      "sources": 3
+    },
+    {
+      "id": "america66",
+      "name": "Regimiento de Infantería «América» nº 66",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": true,
+      "equipment": false,
+      "location": true,
+      "contacts": 1,
+      "sources": 4
+    },
+    {
+      "id": "bhela1",
+      "name": "Batallón de Helicópteros de Ataque I",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": true,
+      "location": true,
+      "contacts": 1,
+      "sources": 3
+    },
+    {
+      "id": "bheleme2",
+      "name": "Batallón de Helicópteros de Emergencias II",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": true,
+      "equipment": false,
+      "location": false,
+      "contacts": 1,
+      "sources": 3
+    },
+    {
+      "id": "bhelma3",
+      "name": "Batallón de Helicópteros de Maniobra III",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": true,
+      "location": true,
+      "contacts": 2,
+      "sources": 3
+    },
+    {
+      "id": "bhelma4",
+      "name": "Batallón de Helicópteros de Maniobra IV",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": true,
+      "location": true,
+      "contacts": 2,
+      "sources": 3
+    },
+    {
+      "id": "bheltra5",
+      "name": "Batallón de Helicópteros de Transporte V",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": true,
+      "location": true,
+      "contacts": 1,
+      "sources": 3
+    },
+    {
+      "id": "tercio3",
+      "name": "Tercio «Don Juan de Austria» 3º de La Legión",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": true,
+      "equipment": false,
+      "location": true,
+      "contacts": 0,
+      "sources": 3
+    },
+    {
+      "id": "tercio4",
+      "name": "Tercio «Alejandro Farnesio» 4º de La Legión",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": true,
+      "equipment": false,
+      "location": true,
+      "contacts": 0,
+      "sources": 3
+    },
+    {
+      "id": "valenzuela",
+      "name": "VII Bandera «Valenzuela»",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": true,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "colon",
+      "name": "VIII Bandera «Colón»",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": true,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "millan-astray",
+      "name": "X Bandera «Millán Astray»",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "bcg1",
+      "name": "Batallón de Cuartel General de la Brigada «Aragón» I",
+      "shield": true,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "pavia4",
+      "name": "Regimiento Acorazado «Pavía» nº 4",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": true,
+      "equipment": true,
+      "location": true,
+      "contacts": 1,
+      "sources": 4
+    },
+    {
+      "id": "raca20",
+      "name": "Regimiento de Artillería de Campaña nº 20",
+      "shield": true,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 1,
+      "sources": 3
+    },
+    {
+      "id": "arapiles62",
+      "name": "Regimiento de Infantería «Arapiles» nº 62",
+      "shield": true,
+      "history": false,
+      "mission": true,
+      "description": true,
+      "equipment": false,
+      "location": true,
+      "contacts": 1,
+      "sources": 4
+    },
+    {
+      "id": "barcelona63",
+      "name": "Regimiento de Infantería «Barcelona» nº 63",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": true,
+      "location": true,
+      "contacts": 1,
+      "sources": 4
+    },
+    {
+      "id": "bz1",
+      "name": "Batallón de Zapadores I",
+      "shield": true,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "flandes",
+      "name": "Batallón de Infantería de Carros de Combate «Flandes» I/4",
+      "shield": true,
+      "history": false,
+      "mission": false,
+      "description": true,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "cataluna",
+      "name": "Batallón de Infantería Motorizada «Cataluña» I/63",
+      "shield": true,
+      "history": true,
+      "mission": false,
+      "description": true,
+      "equipment": true,
+      "location": false,
+      "contacts": 0,
+      "sources": 3
+    },
+    {
+      "id": "bcg7",
+      "name": "Batallón de Cuartel General de la Brigada «Galicia» VII",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "principe3",
+      "name": "Regimiento de Infantería «Príncipe» nº 3",
+      "shield": true,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 1,
+      "sources": 3
+    },
+    {
+      "id": "isabel29",
+      "name": "Regimiento de Infantería «Isabel la Católica» nº 29",
+      "shield": true,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "farnesio12",
+      "name": "Regimiento de Caballería «Farnesio» nº 12",
+      "shield": true,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": true,
+      "location": true,
+      "contacts": 1,
+      "sources": 3
+    },
+    {
+      "id": "bz7",
+      "name": "Batallón de Zapadores VII",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "san-quintin",
+      "name": "Batallón «San Quintín» I/3",
+      "shield": true,
+      "history": false,
+      "mission": false,
+      "description": true,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "toledo",
+      "name": "Batallón «Toledo» II/3",
+      "shield": true,
+      "history": false,
+      "mission": false,
+      "description": true,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "zamora",
+      "name": "Batallón de Infantería Motorizada «Zamora» I/29",
+      "shield": true,
+      "history": false,
+      "mission": false,
+      "description": true,
+      "equipment": true,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "bcg10",
+      "name": "Batallón de Cuartel General X",
+      "shield": true,
+      "history": false,
+      "mission": true,
+      "description": true,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "reina2",
+      "name": "Regimiento de Infantería «La Reina» nº 2",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "garellano45",
+      "name": "Regimiento de Infantería «Garellano» nº 45",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": true,
+      "equipment": false,
+      "location": true,
+      "contacts": 1,
+      "sources": 4
+    },
+    {
+      "id": "cordoba10",
+      "name": "Regimiento Acorazado «Córdoba» nº 10",
+      "shield": true,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "bz10",
+      "name": "Batallón de Zapadores X",
+      "shield": false,
+      "history": false,
+      "mission": true,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "princesa",
+      "name": "Batallón de Infantería Protegida «Princesa» I/2",
+      "shield": false,
+      "history": false,
+      "mission": false,
+      "description": true,
+      "equipment": true,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "lepanto",
+      "name": "Batallón de Infantería Mecanizada «Lepanto» II/2",
+      "shield": false,
+      "history": false,
+      "mission": false,
+      "description": true,
+      "equipment": true,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "malaga",
+      "name": "Batallón de Infantería de Carros de Combate «Málaga» I/10",
+      "shield": false,
+      "history": false,
+      "mission": false,
+      "description": true,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "sicilia67",
+      "name": "Regimiento de Infantería «Tercio Viejo de Sicilia» nº 67",
+      "shield": false,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 2,
+      "sources": 3
+    },
+    {
+      "id": "saboya6",
+      "name": "Regimiento de Infantería «Saboya» nº 6",
+      "shield": false,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "castilla16",
+      "name": "Regimiento Acorazado «Castilla» nº 16",
+      "shield": false,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "bz11",
+      "name": "Batallón de Zapadores XI",
+      "shield": false,
+      "history": false,
+      "mission": true,
+      "description": true,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "bcg11",
+      "name": "Batallón de Cuartel General XI",
+      "shield": false,
+      "history": false,
+      "mission": true,
+      "description": true,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "legazpi",
+      "name": "Batallón de Infantería Motorizada «Legazpi» I/67",
+      "shield": false,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "cantabria",
+      "name": "Batallón «Cantabria» I/6",
+      "shield": false,
+      "history": false,
+      "mission": false,
+      "description": true,
+      "equipment": true,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "las-navas",
+      "name": "Batallón «Las Navas» II/6",
+      "shield": false,
+      "history": false,
+      "mission": false,
+      "description": true,
+      "equipment": true,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "bcg2",
+      "name": "Bandera de Cuartel General de La Legión",
+      "shield": false,
+      "history": false,
+      "mission": true,
+      "description": true,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "bz2",
+      "name": "Bandera de Zapadores II de La Legión",
+      "shield": false,
+      "history": false,
+      "mission": true,
+      "description": true,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "bcg6",
+      "name": "Batallón de Cuartel General de la Brigada «Almogávares» VI",
+      "shield": false,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "bz6",
+      "name": "Batallón de Zapadores VI de Paracaidistas",
+      "shield": false,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "roger-flor",
+      "name": "Bandera de Infantería Paracaidista «Roger de Flor» I/4",
+      "shield": false,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "roger-lauria",
+      "name": "Bandera de Infantería Paracaidista «Roger de Lauria» II/4",
+      "shield": false,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "ortiz-zarate",
+      "name": "Bandera de Infantería Paracaidista «Ortiz de Zárate» III/5",
+      "shield": false,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "bcg16",
+      "name": "Batallón de Cuartel General XVI",
+      "shield": false,
+      "history": false,
+      "mission": false,
+      "description": true,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "soria9",
+      "name": "Regimiento de Infantería «Soria» nº 9",
+      "shield": false,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 2,
+      "sources": 4
+    },
+    {
+      "id": "tenerife49",
+      "name": "Regimiento de Infantería «Tenerife» nº 49",
+      "shield": false,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": true,
+      "location": true,
+      "contacts": 2,
+      "sources": 4
+    },
+    {
+      "id": "canarias50",
+      "name": "Regimiento de Infantería «Canarias» nº 50",
+      "shield": false,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 2,
+      "sources": 3
+    },
+    {
+      "id": "raca93",
+      "name": "Regimiento de Artillería de Campaña nº 93",
+      "shield": false,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 1,
+      "sources": 3
+    },
+    {
+      "id": "bz16",
+      "name": "Batallón de Zapadores XVI",
+      "shield": false,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "fuerteventura",
+      "name": "Batallón de Infantería Protegida «Fuerteventura» I/9",
+      "shield": false,
+      "history": false,
+      "mission": false,
+      "description": true,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "albuera",
+      "name": "Batallón de Infantería Motorizada «Albuera» I/49",
+      "shield": false,
+      "history": false,
+      "mission": false,
+      "description": true,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "cerinola",
+      "name": "Batallón de Infantería Motorizada «Ceriñola» I/50",
+      "shield": false,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "espana11",
+      "name": "Regimiento de Caballería «España» nº 11",
+      "shield": false,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 2,
+      "sources": 2
+    },
+    {
+      "id": "badajoz",
+      "name": "Batallón de Infantería Mecanizada «Badajoz» I/62",
+      "shield": false,
+      "history": true,
+      "mission": true,
+      "description": false,
+      "equipment": true,
+      "location": false,
+      "contacts": 0,
+      "sources": 3
+    },
+    {
+      "id": "guipuzcoa",
+      "name": "Batallón de Infantería Motorizada «Guipúzcoa» I/45",
+      "shield": false,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 0,
+      "sources": 2
+    },
+    {
+      "id": "montejurra",
+      "name": "Batallón de Cazadores de Montaña «Montejurra» I/66",
+      "shield": false,
+      "history": false,
+      "mission": true,
+      "description": false,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    },
+    {
+      "id": "pirineos",
+      "name": "Batallón de Cazadores de Montaña «Pirineos» I/64",
+      "shield": false,
+      "history": true,
+      "mission": false,
+      "description": false,
+      "equipment": false,
+      "location": true,
+      "contacts": 1,
+      "sources": 2
+    },
+    {
+      "id": "merida",
+      "name": "Batallón de Infantería de Carros de Combate «Mérida» I/16",
+      "shield": false,
+      "history": false,
+      "mission": false,
+      "description": true,
+      "equipment": false,
+      "location": false,
+      "contacts": 0,
+      "sources": 1
+    }
+  ],
+  "pendingShields": [
+    {
+      "id": "bz10",
+      "title": "Coat of Arms of the 10th Military Engineering Battalion.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_10th_Military_Engineering_Battalion.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "princesa",
+      "title": "Coat of Arms of the 1st-2 Protected Infantry Battalion Princesa.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_1st-2_Protected_Infantry_Battalion_Princesa.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "lepanto",
+      "title": "Coat of Arms of the 2nd-2 Mechanized Infantry Battalion Lepanto.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_2nd-2_Mechanized_Infantry_Battalion_Lepanto.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "malaga",
+      "title": "Coat of Arms of the 1st-10 Tank Infantry Battalion Málaga.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_1st-10_Tank_Infantry_Battalion_M%C3%A1laga.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "sicilia67",
+      "title": "Coat of Arms of the 67th Infantry Regiment.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_67th_Infantry_Regiment.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "saboya6",
+      "title": "Coat of Arms of the 6th Infantry Regiment Saboya.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_6th_Infantry_Regiment_Saboya.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "castilla16",
+      "title": "Coat of arms of the 16th Armored Regiment Castilla (2015).svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_16th_Armored_Regiment_Castilla_(2015).svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "bz11",
+      "title": "Coat of Arms of the 11th Military Engineering Battalion.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_11th_Military_Engineering_Battalion.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "bcg11",
+      "title": "Coat of Arms of the 11th Brigade Extremadura Headquarters Battalion.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_11th_Brigade_Extremadura_Headquarters_Battalion.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "legazpi",
+      "title": "Coat of Arms of the 1st-67 Motorized Infantry Battalion Legazpi.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_1st-67_Motorized_Infantry_Battalion_Legazpi.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "cantabria",
+      "title": "Coat of Arms of the 1st-6 Mechanized Infantry Battalion Cantabria.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_1st-6_Mechanized_Infantry_Battalion_Cantabria.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "las-navas",
+      "title": "Coat of Arms of the 2nd-6 Protected Infantry Battalion Las Navas.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_2nd-6_Protected_Infantry_Battalion_Las_Navas.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "bcg2",
+      "title": "Coat of Arms of the 2nd Spanish Legion Brigade Headquarters Flag.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_2nd_Spanish_Legion_Brigade_Headquarters_Flag.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "bz2",
+      "title": "Coat of Arms of the 2nd Spanish Legion Military Engineering Batalion.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_2nd_Spanish_Legion_Military_Engineering_Batalion.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "bcg6",
+      "title": "Coat of Arms of the BRIPAC Headquarters Battalion.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_BRIPAC_Headquarters_Battalion.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "bz6",
+      "title": "Coat of Arms of the 6th Parachute Engineer Battalion.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_6th_Parachute_Engineer_Battalion.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "roger-flor",
+      "title": "Coat of Arms of the 1st-4 Parachute Infantry Flag Roger de Flor.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_1st-4_Parachute_Infantry_Flag_Roger_de_Flor.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "bcg16",
+      "title": "Coat of Arms of the 16th Brigade Canarias Headquarters Battalion.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_16th_Brigade_Canarias_Headquarters_Battalion.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "soria9",
+      "title": "Coat of Arms of the 9th Infantry Regiment Soria.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_9th_Infantry_Regiment_Soria.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "tenerife49",
+      "title": "Coat of Arms of the 49th Infantry Regiment Tenerife.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_49th_Infantry_Regiment_Tenerife.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "canarias50",
+      "title": "Coat of Arms of the 50th Infantry Regiment Canarias.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_50th_Infantry_Regiment_Canarias.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "raca93",
+      "title": "Coat of Arms of the 93rd Field Artillery Regiment.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_93rd_Field_Artillery_Regiment.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "bz16",
+      "title": "Coat of Arms of the 16th Military Engineering Battalion.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_16th_Military_Engineering_Battalion.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "fuerteventura",
+      "title": "Coat of Arms of the 1st-9 Protected Infantry Battalion Fuerteventura.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_1st-9_Protected_Infantry_Battalion_Fuerteventura.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "cerinola",
+      "title": "Coat of Arms of the 1st-50 Protected Infantry Battalion Ceriñola.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_1st-50_Protected_Infantry_Battalion_Ceri%C3%B1ola.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "espana11",
+      "title": "Coat of Arms of the 11th Light Armored Cavalry Regiment España.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_11th_Light_Armored_Cavalry_Regiment_Espa%C3%B1a.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "roger-lauria",
+      "title": "Coat of Arms of the 2nd-4 Protected Infantry Flag Roger de Lauria.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_2nd-4_Protected_Infantry_Flag_Roger_de_Lauria.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "ortiz-zarate",
+      "title": "Coat of Arms of the 3rd-5 Protected Infantry Flag Ortiz de Zárate.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_3rd-5_Protected_Infantry_Flag_Ortiz_de_Z%C3%A1rate.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "albuera",
+      "title": "Coat of Arms of the 1st-49 Motorized Infantry Unit Albuera.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_1st-49_Motorized_Infantry_Unit_Albuera.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "badajoz",
+      "title": "Coat of Arms of the 1st-62 Mechanized Infantry Battalion Badajoz.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_1st-62_Mechanized_Infantry_Battalion_Badajoz.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "guipuzcoa",
+      "title": "Coat of Arms of the 1st-45 Motorized Infantry Battalion Guipúzcoa.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_1st-45_Motorized_Infantry_Battalion_Guip%C3%BAzcoa.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "montejurra",
+      "title": "Coat of Arms of the 1st-66 Motorized Infantry Battalion Montejurra.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_1st-66_Motorized_Infantry_Battalion_Montejurra.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "pirineos",
+      "title": "Coat of Arms of the 1st-64 Mountain Hunters Battalion Pirineos.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_1st-64_Mountain_Hunters_Battalion_Pirineos.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    },
+    {
+      "id": "merida",
+      "title": "Coat of Arms of the 1st-16 Tank Infantry Battalion Mérida.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_1st-16_Tank_Infantry_Battalion_M%C3%A9rida.svg",
+      "reason": "Descarga pendiente tras el límite HTTP 429 de Wikimedia. Metadatos y licencia localizados."
+    }
+  ]
+}

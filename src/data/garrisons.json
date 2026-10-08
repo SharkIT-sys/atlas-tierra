@@ -1,0 +1,1988 @@
+[
+  {
+    "id": "el-goloso",
+    "name": "Base «El Goloso»",
+    "type": "Base",
+    "address": "Carretera M-607, km 17,50",
+    "municipality": "Madrid",
+    "province": "Madrid",
+    "autonomousCommunity": "Comunidad de Madrid",
+    "postalCode": "28790",
+    "latitude": 40.55669782243871,
+    "longitude": -3.712782079726542,
+    "notes": "Marcador aproximado: centro del mapa público insertado por la Brigada. No representa un acceso ni un punto de precisión. Se prefiere este mapa a la pareja con signo ambiguo publicada en la página del RAC 61.",
+    "phone": null,
+    "sources": [
+      "rac61-local",
+      "bri12-local"
+    ],
+    "lastVerified": "2026-10-08",
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "rac61-local"
+        ],
+        "status": "official"
+      },
+      "type": {
+        "sourceIds": [
+          "rac61-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "rac61-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "rac61-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "rac61-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "rac61-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "rac61-local"
+        ],
+        "status": "official"
+      },
+      "latitude": {
+        "sourceIds": [
+          "bri12-local"
+        ],
+        "status": "official",
+        "notes": "Centro del mapa publicado, no un acceso."
+      },
+      "longitude": {
+        "sourceIds": [
+          "bri12-local"
+        ],
+        "status": "official",
+        "notes": "Centro del mapa publicado, no un acceso."
+      }
+    }
+  },
+  {
+    "id": "sancho-ramirez",
+    "name": "Acuartelamiento «Sancho Ramírez»",
+    "type": "Acuartelamiento",
+    "address": "Calle División 52, s/n",
+    "municipality": "Huesca",
+    "province": "Huesca",
+    "autonomousCommunity": "Aragón",
+    "postalCode": "22006",
+    "phone": null,
+    "sources": [
+      "cast-local"
+    ],
+    "lastVerified": "2026-10-08",
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "cast-local"
+        ],
+        "status": "official"
+      },
+      "type": {
+        "sourceIds": [
+          "cast-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "cast-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "cast-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "cast-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "cast-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "cast-local"
+        ],
+        "status": "official"
+      },
+      "latitude": {
+        "sourceIds": [
+          "cast-local"
+        ],
+        "status": "official"
+      },
+      "longitude": {
+        "sourceIds": [
+          "cast-local"
+        ],
+        "status": "official"
+      }
+    },
+    "latitude": 42.14335927920197,
+    "longitude": -0.3958976841240663,
+    "notes": "Marcador aproximado: centro del mapa público insertado en la página oficial, no un acceso."
+  },
+  {
+    "id": "capitania-barcelona",
+    "name": "Capitanía General de Barcelona",
+    "type": "Establecimiento",
+    "address": "Paseo de Colón, 14",
+    "municipality": "Barcelona",
+    "province": "Barcelona",
+    "autonomousCommunity": "Cataluña",
+    "postalCode": "08002",
+    "phone": null,
+    "sources": [
+      "ige-local"
+    ],
+    "lastVerified": "2026-10-08",
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "ige-local"
+        ],
+        "status": "official"
+      },
+      "type": {
+        "sourceIds": [
+          "ige-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "ige-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "ige-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "ige-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "ige-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "ige-local"
+        ],
+        "status": "official"
+      }
+    }
+  },
+  {
+    "id": "palacio-consejos",
+    "name": "Acuartelamiento Palacio de los Consejos",
+    "type": "Acuartelamiento",
+    "address": "Calle Mayor, 79",
+    "municipality": "Madrid",
+    "province": "Madrid",
+    "autonomousCommunity": "Comunidad de Madrid",
+    "postalCode": "28013",
+    "phone": null,
+    "sources": [
+      "diacu-local"
+    ],
+    "lastVerified": "2026-10-08",
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "diacu-local"
+        ],
+        "status": "official"
+      },
+      "type": {
+        "sourceIds": [
+          "diacu-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "diacu-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "diacu-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "diacu-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "diacu-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "diacu-local"
+        ],
+        "status": "official"
+      }
+    }
+  },
+  {
+    "id": "diego-porcelos",
+    "name": "Acuartelamiento «Diego Porcelos»",
+    "type": "Acuartelamiento",
+    "municipality": "Burgos",
+    "province": "Burgos",
+    "autonomousCommunity": "Castilla y León",
+    "phone": null,
+    "sources": [
+      "san-marcial"
+    ],
+    "lastVerified": "2026-10-08",
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "san-marcial"
+        ],
+        "status": "official"
+      },
+      "type": {
+        "sourceIds": [
+          "san-marcial"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "san-marcial"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "san-marcial"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "san-marcial"
+        ],
+        "status": "official"
+      }
+    }
+  },
+  {
+    "id": "sede-agm",
+    "name": "Sede de la Academia General Militar",
+    "type": "Academia",
+    "municipality": "Zaragoza",
+    "province": "Zaragoza",
+    "autonomousCommunity": "Aragón",
+    "address": "Carretera de Huesca, s/n",
+    "phone": null,
+    "sources": [
+      "centros"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "sede-agbs",
+    "name": "Sede de la Academia General Básica de Suboficiales",
+    "type": "Academia",
+    "municipality": "Tremp",
+    "province": "Lleida",
+    "autonomousCommunity": "Cataluña",
+    "address": "Carretera de Talarn, s/n",
+    "phone": null,
+    "sources": [
+      "centros"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "sede-acinf",
+    "name": "Sede de la Academia de Infantería",
+    "type": "Academia",
+    "municipality": "Toledo",
+    "province": "Toledo",
+    "autonomousCommunity": "Castilla-La Mancha",
+    "address": "Cuesta de San Servando, s/n",
+    "phone": null,
+    "sources": [
+      "centros"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "sede-acab",
+    "name": "Sede de la Academia de Caballería",
+    "type": "Academia",
+    "municipality": "Valladolid",
+    "province": "Valladolid",
+    "autonomousCommunity": "Castilla y León",
+    "address": "Paseo de Zorrilla",
+    "phone": null,
+    "sources": [
+      "centros"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "sede-acart",
+    "name": "Sede de la Academia de Artillería",
+    "type": "Academia",
+    "municipality": "Segovia",
+    "province": "Segovia",
+    "autonomousCommunity": "Castilla y León",
+    "address": "Calle San Francisco, 25",
+    "phone": null,
+    "sources": [
+      "centros"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "sede-acing",
+    "name": "Sede de la Academia de Ingenieros",
+    "type": "Academia",
+    "municipality": "Hoyo de Manzanares",
+    "province": "Madrid",
+    "autonomousCommunity": "Comunidad de Madrid",
+    "address": "Carretera de Torrelodones a Colmenar Viejo, km 14,2",
+    "phone": null,
+    "sources": [
+      "centros"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "centros"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "buenavista",
+    "name": "Palacio de Buenavista",
+    "type": "Establecimiento",
+    "address": "Calle Prim, 6–8",
+    "municipality": "Madrid",
+    "province": "Madrid",
+    "autonomousCommunity": "Comunidad de Madrid",
+    "phone": null,
+    "sources": [
+      "diin-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "diin-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "diin-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "diin-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "diin-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "diin-local"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "san-francisco",
+    "name": "Establecimiento «San Francisco Casa Grande»",
+    "type": "Establecimiento",
+    "address": "Calle San Matías, 26",
+    "municipality": "Granada",
+    "province": "Granada",
+    "autonomousCommunity": "Andalucía",
+    "phone": null,
+    "sources": [
+      "madoc-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "madoc-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "madoc-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "madoc-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "madoc-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "madoc-local"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "merced",
+    "name": "Establecimiento «Convento de la Merced»",
+    "type": "Establecimiento",
+    "address": "Acera de San Ildefonso, s/n",
+    "municipality": "Granada",
+    "province": "Granada",
+    "autonomousCommunity": "Andalucía",
+    "phone": null,
+    "sources": [
+      "madoc-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "madoc-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "madoc-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "madoc-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "madoc-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "madoc-local"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "san-jorge",
+    "name": "Base «San Jorge»",
+    "municipality": "Zaragoza",
+    "province": "Zaragoza",
+    "autonomousCommunity": "Aragón",
+    "address": "Carretera de Huesca, km 7,5 · 50110",
+    "phone": null,
+    "sources": [
+      "aragon-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08",
+    "website": "https://ejercito.defensa.gob.es/unidades/Zaragoza/bri_aragon/Localizacion/index.html"
+  },
+  {
+    "id": "alvarez-castro",
+    "name": "Acuartelamiento «General Álvarez de Castro»",
+    "municipality": "Sant Climent Sescebes",
+    "province": "Girona",
+    "autonomousCommunity": "Cataluña",
+    "address": "Avenida Campament, s/n · 17751",
+    "phone": null,
+    "sources": [
+      "aragon-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08",
+    "website": "https://ejercito.defensa.gob.es/unidades/Zaragoza/bri_aragon/Localizacion/index.html"
+  },
+  {
+    "id": "el-bruch",
+    "name": "Acuartelamiento «El Bruch»",
+    "municipality": "Barcelona",
+    "province": "Barcelona",
+    "autonomousCommunity": "Cataluña",
+    "address": "Avenida del Ejército, s/n · 08034",
+    "phone": null,
+    "sources": [
+      "aragon-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "aragon-local"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08",
+    "website": "https://ejercito.defensa.gob.es/unidades/Zaragoza/bri_aragon/Localizacion/index.html"
+  },
+  {
+    "id": "general-morillo",
+    "name": "Base «General Morillo»",
+    "municipality": "Pontevedra",
+    "province": "Pontevedra",
+    "autonomousCommunity": "Galicia",
+    "address": "36100 Pontevedra",
+    "phone": null,
+    "sources": [
+      "galicia-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "galicia-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "galicia-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "galicia-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "galicia-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "galicia-local"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08",
+    "website": "https://ejercito.defensa.gob.es/unidades/Pontevedra/brilat/Localizacion/index.html"
+  },
+  {
+    "id": "cerro-muriano",
+    "name": "Base de Cerro Muriano",
+    "municipality": "Cerro Muriano",
+    "province": "Córdoba",
+    "autonomousCommunity": "Andalucía",
+    "address": "Carretera Córdoba-Badajoz, km 253 · 14350",
+    "phone": null,
+    "sources": [
+      "guzman-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "guzman-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "guzman-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "guzman-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "guzman-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "guzman-local"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08",
+    "website": "https://ejercito.defensa.gob.es/unidades/Cordoba/brimzx_guzmanelbueno/Localizacion/index.html"
+  },
+  {
+    "id": "general-menacho",
+    "name": "Base «General Menacho»",
+    "province": "Badajoz",
+    "autonomousCommunity": "Extremadura",
+    "phone": null,
+    "sources": [
+      "extremadura-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "extremadura-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "extremadura-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "extremadura-local"
+        ],
+        "status": "official"
+      }
+    },
+    "lastVerified": "2026-10-08",
+    "website": "https://ejercito.defensa.gob.es/unidades/Badajoz/bri_extremadura_xi/Localizacion/index.html"
+  },
+  {
+    "id": "alvarez-sotomayor",
+    "phone": "+34950180062",
+    "sources": [
+      "legion-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "legion-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "legion-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "legion-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "legion-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "legion-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "legion-local"
+        ],
+        "status": "official"
+      },
+      "phone": {
+        "sourceIds": [
+          "legion-local"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Base Álvarez de Sotomayor",
+    "municipality": "Viator",
+    "province": "Almería",
+    "autonomousCommunity": "Andalucía",
+    "address": "Carretera Campamento, s/n",
+    "postalCode": "04240",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "montejaque",
+    "phone": "+34952189800",
+    "sources": [
+      "legion-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "legion-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "legion-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "legion-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "legion-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "legion-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "legion-local"
+        ],
+        "status": "official"
+      },
+      "phone": {
+        "sourceIds": [
+          "legion-local"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Acuartelamiento Montejaque",
+    "municipality": "Ronda",
+    "province": "Málaga",
+    "autonomousCommunity": "Andalucía",
+    "address": "Carretera de Sevilla, s/n",
+    "postalCode": "29400",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "soyeche",
+    "phone": null,
+    "sources": [
+      "garellano-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "garellano-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "garellano-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "garellano-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "garellano-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "garellano-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "garellano-local"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Acuartelamiento Soyeche",
+    "municipality": "Mungia",
+    "province": "Bizkaia",
+    "autonomousCommunity": "País Vasco",
+    "address": "Aritz Bidea, 121",
+    "postalCode": "48100",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "loyola",
+    "phone": null,
+    "sources": [
+      "sicilia-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "sicilia-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "sicilia-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "sicilia-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "sicilia-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "sicilia-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "sicilia-local"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Acuartelamiento Loyola",
+    "address": "Sierra Aralar, 51–53",
+    "municipality": "Donostia / San Sebastián",
+    "province": "Gipuzkoa",
+    "autonomousCommunity": "País Vasco",
+    "postalCode": "20014",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "heroes-revellin",
+    "phone": null,
+    "sources": [
+      "bhelma3-info"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "bhelma3-info"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "bhelma3-info"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "bhelma3-info"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "bhelma3-info"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Acuartelamiento Héroes del Revellín",
+    "municipality": "Agoncillo",
+    "province": "La Rioja",
+    "autonomousCommunity": "La Rioja",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "principe",
+    "phone": null,
+    "sources": [
+      "napoles-info"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "napoles-info"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "napoles-info"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "napoles-info"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "napoles-info"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Base Príncipe",
+    "municipality": "Paracuellos de Jarama",
+    "province": "Madrid",
+    "autonomousCommunity": "Comunidad de Madrid",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "santa-barbara",
+    "phone": null,
+    "sources": [
+      "ortiz-info"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "ortiz-info"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "ortiz-info"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "ortiz-info"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "ortiz-info"
+        ],
+        "status": "official"
+      },
+      "notes": {
+        "sourceIds": [
+          "ortiz-info"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Acuartelamiento Santa Bárbara",
+    "municipality": "Murcia",
+    "province": "Murcia",
+    "autonomousCommunity": "Región de Murcia",
+    "notes": "Situado en Javalí Nuevo.",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "san-bernardo",
+    "phone": null,
+    "sources": [
+      "galicia64-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "galicia64-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "galicia64-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "galicia64-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "galicia64-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "galicia64-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "galicia64-local"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Acuartelamiento San Bernardo",
+    "municipality": "Jaca",
+    "province": "Huesca",
+    "autonomousCommunity": "Aragón",
+    "address": "Avenida Escuela Militar de Montaña, s/n",
+    "postalCode": "22700",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "la-victoria",
+    "phone": null,
+    "sources": [
+      "galicia64-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "galicia64-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "galicia64-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "galicia64-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "galicia64-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "galicia64-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "galicia64-local"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Acuartelamiento La Victoria",
+    "municipality": "Jaca",
+    "province": "Huesca",
+    "autonomousCommunity": "Aragón",
+    "address": "Avenida Llanos de la Victoria, s/n",
+    "postalCode": "22700",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "aizoain",
+    "phone": null,
+    "sources": [
+      "america-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "america-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "america-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "america-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "america-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "america-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "america-local"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Acuartelamiento Aizoáin",
+    "municipality": "Berrioplano",
+    "province": "Navarra",
+    "autonomousCommunity": "Comunidad Foral de Navarra",
+    "address": "Carretera de Guipúzcoa, s/n",
+    "postalCode": "31195",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "puerto-rosario",
+    "phone": null,
+    "sources": [
+      "soria9-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "soria9-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "soria9-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "soria9-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "soria9-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "soria9-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "soria9-local"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Acuartelamiento Puerto del Rosario",
+    "municipality": "Puerto del Rosario",
+    "province": "Las Palmas",
+    "autonomousCommunity": "Canarias",
+    "address": "Comandante Díaz Trayter, 1",
+    "postalCode": "35600",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "aleman-ramirez",
+    "phone": null,
+    "sources": [
+      "canarias50-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "canarias50-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "canarias50-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "canarias50-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "canarias50-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "canarias50-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "canarias50-local"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Base General Alemán Ramírez",
+    "municipality": "Las Palmas de Gran Canaria",
+    "province": "Las Palmas",
+    "autonomousCommunity": "Canarias",
+    "address": "Coronel Rocha, s/n",
+    "postalCode": "35009",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "hoya-fria",
+    "phone": null,
+    "sources": [
+      "tenerife49-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "tenerife49-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "tenerife49-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "tenerife49-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "tenerife49-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "tenerife49-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "tenerife49-local"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Acuartelamiento Hoya Fría",
+    "municipality": "Santa Cruz de Tenerife",
+    "province": "Santa Cruz de Tenerife",
+    "autonomousCommunity": "Canarias",
+    "address": "Carretera de Hoya Fría, s/n",
+    "postalCode": "38110",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "los-rodeos",
+    "phone": null,
+    "sources": [
+      "raca93-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "raca93-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "raca93-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "raca93-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "raca93-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "raca93-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "raca93-local"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Acuartelamiento Los Rodeos",
+    "municipality": "San Cristóbal de La Laguna",
+    "province": "Santa Cruz de Tenerife",
+    "autonomousCommunity": "Canarias",
+    "address": "Carretera del Matadero, s/n",
+    "postalCode": "38297",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "sanchez-bilbao",
+    "phone": null,
+    "sources": [
+      "bhela1-info"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "bhela1-info"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "bhela1-info"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "bhela1-info"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "bhela1-info"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Base Coronel Sánchez Bilbao",
+    "municipality": "Almagro",
+    "province": "Ciudad Real",
+    "autonomousCommunity": "Castilla-La Mancha",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "el-copero",
+    "phone": null,
+    "sources": [
+      "bhelma4-info"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "bhelma4-info"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "bhelma4-info"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "bhelma4-info"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "bhelma4-info"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "bhelma4-info"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "bhelma4-info"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Base El Copero",
+    "municipality": "Dos Hermanas",
+    "province": "Sevilla",
+    "autonomousCommunity": "Andalucía",
+    "address": "Carretera de Isla Menor, s/n",
+    "postalCode": "41703",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "coronel-mate",
+    "phone": null,
+    "sources": [
+      "bheltra5-info"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "bheltra5-info"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "bheltra5-info"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "bheltra5-info"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "bheltra5-info"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Base Coronel Maté",
+    "municipality": "Colmenar Viejo",
+    "province": "Madrid",
+    "autonomousCommunity": "Comunidad de Madrid",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "cabo-noval",
+    "phone": null,
+    "sources": [
+      "principe-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "principe-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "principe-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "principe-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "principe-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "principe-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "principe-local"
+        ],
+        "status": "official"
+      },
+      "notes": {
+        "sourceIds": [
+          "principe-local"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Acuartelamiento Cabo Noval",
+    "municipality": "Siero",
+    "province": "Asturias",
+    "autonomousCommunity": "Principado de Asturias",
+    "address": "Carretera SI-4 (Noreña–Pruvia)",
+    "postalCode": "33510",
+    "notes": "La dirección postal de correspondencia publicada es Acuartelamiento Cabo Noval, 33071 Oviedo; se distingue de la ubicación física en Siero.",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "el-empecinado",
+    "phone": null,
+    "sources": [
+      "farnesio-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "farnesio-local"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "farnesio-local"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "farnesio-local"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "farnesio-local"
+        ],
+        "status": "official"
+      },
+      "address": {
+        "sourceIds": [
+          "farnesio-local"
+        ],
+        "status": "official"
+      },
+      "postalCode": {
+        "sourceIds": [
+          "farnesio-local"
+        ],
+        "status": "official"
+      },
+      "notes": {
+        "sourceIds": [
+          "farnesio-local"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Base El Empecinado",
+    "municipality": "Santovenia de Pisuerga",
+    "province": "Valladolid",
+    "autonomousCommunity": "Castilla y León",
+    "address": "Carretera de Cabezón, km 7,4",
+    "postalCode": "47155",
+    "notes": "La página sitúa la base entre los términos de Santovenia y Cabezón de Pisuerga.",
+    "lastVerified": "2026-10-08"
+  },
+  {
+    "id": "general-almirante",
+    "phone": "+34962745000",
+    "sources": [
+      "lusitania-info",
+      "lusitania-local"
+    ],
+    "fieldSources": {
+      "name": {
+        "sourceIds": [
+          "lusitania-info"
+        ],
+        "status": "official"
+      },
+      "municipality": {
+        "sourceIds": [
+          "lusitania-info"
+        ],
+        "status": "official"
+      },
+      "province": {
+        "sourceIds": [
+          "lusitania-info"
+        ],
+        "status": "official"
+      },
+      "autonomousCommunity": {
+        "sourceIds": [
+          "lusitania-info"
+        ],
+        "status": "official"
+      },
+      "phone": {
+        "sourceIds": [
+          "lusitania-local"
+        ],
+        "status": "official"
+      }
+    },
+    "name": "Base General Almirante",
+    "municipality": "Marines",
+    "province": "Valencia",
+    "autonomousCommunity": "Comunitat Valenciana",
+    "lastVerified": "2026-10-08"
+  }
+]

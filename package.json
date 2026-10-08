@@ -1,0 +1,56 @@
+{
+  "name": "atlas-tierra",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "validate-data": "tsx scripts/validate-data.ts",
+    "check-links": "tsx scripts/check-links.ts",
+    "test:e2e": "playwright test",
+    "format": "prettier --write src scripts tests *.ts *.js *.json README.md docs",
+    "check": "npm run lint && npm test && npm run validate-data && npm run build"
+  },
+  "dependencies": {
+    "@xyflow/react": "^12.8.0",
+    "fuse.js": "^7.1.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.468.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-leaflet": "^5.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/leaflet": "^1.9.18",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^5.2.0",
+    "eslint": "^10.12.0",
+    "prettier": "^3.9.9",
+    "tsx": "^4.20.0",
+    "typescript": "^5.8.0",
+    "typescript-eslint": "^8.0.0",
+    "vite": "^7.0.0",
+    "vite-plugin-pwa": "^1.0.0",
+    "vitest": "^5.0.3"
+  },
+  "description": "Atlas educativo de la organización pública del Ejército de Tierra",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SharkIT-sys/atlas-tierra.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SharkIT-sys/atlas-tierra/issues"
+  }
+}

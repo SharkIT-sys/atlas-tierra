@@ -1,0 +1,102 @@
+[
+  {
+    "term": "ET",
+    "definition": "Ejército de Tierra",
+    "sources": ["estructura", "boe"]
+  },
+  {
+    "term": "EME",
+    "definition": "Estado Mayor del Ejército",
+    "sources": ["estructura", "boe"]
+  },
+  {
+    "term": "FUTER",
+    "definition": "Fuerza Terrestre",
+    "sources": ["estructura", "boe"]
+  },
+  {
+    "term": "IGE",
+    "definition": "Inspección General del Ejército",
+    "sources": ["estructura", "boe"]
+  },
+  {
+    "term": "DIACU",
+    "definition": "Dirección de Acuartelamiento",
+    "sources": ["estructura", "boe"]
+  },
+  {
+    "term": "DIIN",
+    "definition": "Dirección de Infraestructura",
+    "sources": ["estructura", "boe"]
+  },
+  {
+    "term": "MALE",
+    "definition": "Mando de Apoyo Logístico",
+    "sources": ["estructura", "boe"]
+  },
+  {
+    "term": "MAPER",
+    "definition": "Mando de Personal",
+    "sources": ["estructura", "boe"]
+  },
+  {
+    "term": "MADOC",
+    "definition": "Mando de Adiestramiento y Doctrina",
+    "sources": ["estructura", "boe"]
+  },
+  {
+    "term": "DIAE",
+    "definition": "Dirección de Asuntos Económicos",
+    "sources": ["estructura", "boe"]
+  },
+  {
+    "term": "BRI",
+    "definition": "Brigada",
+    "sources": ["bri12-hist"]
+  },
+  {
+    "term": "RAC",
+    "definition": "Regimiento Acorazado",
+    "sources": ["estructura", "boe"]
+  },
+  {
+    "term": "BICC",
+    "definition": "Batallón de Infantería de Carros de Combate",
+    "sources": ["bri12-hist"]
+  },
+  {
+    "term": "GCAC",
+    "definition": "Grupo de Caballería Acorazado",
+    "sources": ["bri12-hist"]
+  },
+  {
+    "term": "FAMET",
+    "definition": "Fuerzas Aeromóviles del Ejército de Tierra",
+    "sources": ["estructura", "boe"]
+  },
+  {
+    "term": "RI",
+    "definition": "Regimiento de Infantería",
+    "sources": ["bri12-hist", "diaper-madrid"]
+  },
+  {
+    "term": "GACA",
+    "definition": "Grupo de Artillería de Campaña",
+    "sources": ["bri12-hist", "diaper-madrid"]
+  },
+  {
+    "term": "BZ",
+    "definition": "Batallón de Zapadores",
+    "sources": ["bri12-hist", "diaper-madrid"]
+  },
+  {
+    "term": "GL",
+    "definition": "Grupo Logístico",
+    "sources": ["bri12-hist", "diaper-madrid"]
+  },
+  {
+    "term": "BCG",
+    "definition": "Batallón de Cuartel General",
+    "sources": ["bri12-hist", "diaper-madrid"]
+  }
+]

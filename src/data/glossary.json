@@ -1,0 +1,112 @@
+[
+  {
+    "term": "Ejército de Tierra",
+    "definition": "Componente terrestre de las Fuerzas Armadas españolas. Este atlas muestra su organización pública.",
+    "sources": ["estructura"]
+  },
+  {
+    "term": "Cuartel General",
+    "definition": "Órganos que asisten al mando en el planeamiento, dirección y coordinación.",
+    "sources": ["boe"]
+  },
+  {
+    "term": "Fuerza",
+    "definition": "Conjunto de unidades que se preparan para constituir organizaciones operativas.",
+    "sources": ["boe"]
+  },
+  {
+    "term": "Apoyo a la Fuerza",
+    "definition": "Órganos encargados de recursos humanos, materiales y financieros.",
+    "sources": ["boe"]
+  },
+  {
+    "term": "División",
+    "definition": "Agrupación de unidades bajo un mando único. Castillejos y San Marcial tienen cometidos diferenciados.",
+    "sources": ["boe"]
+  },
+  {
+    "term": "Brigada",
+    "definition": "Gran unidad de composición orgánica fija que reúne unidades de combate y de apoyo.",
+    "sources": ["boe"]
+  },
+  {
+    "term": "Regimiento",
+    "definition": "Escalón que puede agrupar batallones o grupos. Su composición concreta se consulta en la ficha de la unidad.",
+    "sources": ["rac61"]
+  },
+  {
+    "term": "Tercio",
+    "definition": "Denominación tradicional empleada por unidades de La Legión. Puede encuadrar banderas.",
+    "sources": ["brileg"]
+  },
+  {
+    "term": "Bandera",
+    "definition": "En La Legión, unidad de entidad batallón.",
+    "sources": ["brileg"]
+  },
+  {
+    "term": "Dependencia orgánica y operativa",
+    "definition": "La estructura orgánica organiza y prepara las unidades. Para una operación pueden transferirse a una cadena operativa distinta.",
+    "sources": ["boe"]
+  },
+  {
+    "term": "Batallón",
+    "definition": "Unidad que puede formar parte de un regimiento. Ejemplo documentado: el BICC León I/61 dentro del RAC 61.",
+    "sources": ["bri12"]
+  },
+  {
+    "term": "Grupo",
+    "definition": "Denominación usada en unidades como Caballería o Artillería. Ejemplo: el Grupo Villaviciosa II/61. No implica una plantilla única.",
+    "sources": ["bri12"]
+  },
+  {
+    "term": "Compañía",
+    "definition": "Unidad que puede reunir secciones y otros elementos. Su composición varía según su función; la compañía de servicios del RINT 1 ofrece un ejemplo público.",
+    "sources": ["glosario-cia"]
+  },
+  {
+    "term": "Escuadrón",
+    "definition": "Denominación de un escalón de unidad que se presenta junto con compañía y batería en la instrucción de pequeñas unidades.",
+    "sources": ["glosario-bripac"]
+  },
+  {
+    "term": "Batería",
+    "definition": "Denominación de unidad utilizada en Artillería; aparece junto con compañía y escuadrón en la organización de la instrucción.",
+    "sources": ["glosario-bripac"]
+  },
+  {
+    "term": "Sección",
+    "definition": "Elemento que puede integrarse en una compañía. Por ejemplo, una sección de abastecimiento o mantenimiento. No se asigna una cifra fija de personal.",
+    "sources": ["glosario-cia"]
+  },
+  {
+    "term": "Pelotón",
+    "definition": "Pequeña unidad con un cometido concreto; un ejemplo publicado es el pelotón de sanidad de una compañía de servicios.",
+    "sources": ["glosario-cia"]
+  },
+  {
+    "term": "Mando",
+    "definition": "En la estructura, órgano que dirige las unidades o recursos que tiene asignados. Sus responsabilidades se definen en la norma de organización.",
+    "sources": ["boe"]
+  },
+  {
+    "term": "Jefatura",
+    "definition": "Órgano con funciones de dirección o asistencia al mando según su ámbito. No representa por sí solo un tamaño fijo de unidad.",
+    "sources": ["boe"]
+  },
+  {
+    "term": "Dirección",
+    "definition": "Órgano especializado responsable de un área de gestión; por ejemplo, infraestructura o asuntos económicos.",
+    "sources": ["boe"]
+  },
+  {
+    "term": "Base",
+    "definition": "Instalación donde se alojan unidades y se prestan servicios. El atlas distingue el lugar físico de la unidad: El Goloso es un ejemplo.",
+    "sources": ["bri12-local"]
+  },
+  {
+    "term": "Acuartelamiento",
+    "definition": "Instalación militar para la vida y funcionamiento de unidades. Es una entidad distinta de las unidades alojadas, como Sancho Ramírez.",
+    "sources": ["cast-local"]
+  }
+]

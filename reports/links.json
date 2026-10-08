@@ -1,0 +1,212 @@
+[
+  {
+    "url": "https://ejercito.defensa.gob.es/estructura/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:46:40.137Z"
+  },
+  {
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-8636",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:46:45.428Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/estructura/2020/Fuerza.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:46:47.897Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/estructura/2020/apoyo_fuerza.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:46:50.359Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Huesca/div_castillejos/Organizacion/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:46:52.824Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Huesca/div_castillejos/Localizacion/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:46:55.316Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Burgos/san_marcial/Organizacion/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:46:57.787Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Coruna/mando_apoyo_maniobra/Organizacion/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:00.268Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/briacxii/Organizacion/index.html?__locale=es",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:02.759Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/briacxii/Noticias/2023/07_Aniversario_brixii.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:05.245Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/rac61/Organizacion/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:07.721Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/rac61/Localizacion/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:10.179Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Barcelona/ige/Organizacion/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:12.656Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Barcelona/ige/Localizacion/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:15.144Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/diacu/Localizacion/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:17.630Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Almeria/brileg/Organizacion/",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:20.100Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/personal/centros.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:22.571Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Zaragoza/agm/Historial/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:25.047Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/briacxii/Localizacion/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:27.522Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/en/personal/jeme/jeme-ensenat/actividades/2022/56-ministra-visita-empecinado.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:30.008Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/rac61/Historial/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:32.486Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/diin/Localizacion/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:34.951Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/maper/Localizacion/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:37.433Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Granada/madoc/Localizacion/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:39.902Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/Galerias/Descarga_pdf/Unidades/Madrid/diae/Carta_de_servicios_DIAE_2023_27.pdf",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:42.369Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Valencia/rinte1/Organizacion/uplms.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:44.834Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/bripacii/Organizacion/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:47.302Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/diaper/-/madrid",
+    "status": "fetch failed",
+    "checkedAt": "2026-10-08T01:47:49.758Z"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_Spanish_Army.svg",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:53.481Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Huesca/div_castillejos/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:55.969Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Burgos/san_marcial/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:47:58.450Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Coruna/mando_apoyo_maniobra/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:48:00.940Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/briacxii/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:48:03.426Z"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_12th_Brigade_Guadarrama_(Polyvalent_Brigade).svg",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:48:05.916Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/rac61/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:48:08.405Z"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_61st_Armoured_Infantry_Regiment_Alc%C3%A1zar_de_Toledo.svg",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:48:10.876Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/maper/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:48:13.358Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Granada/madoc/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:48:15.844Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Barcelona/ige/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:48:18.304Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/diae/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:48:20.780Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/diacu/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:48:23.263Z"
+  },
+  {
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/diin/index.html",
+    "status": 200,
+    "checkedAt": "2026-10-08T01:48:25.727Z"
+  }
+]

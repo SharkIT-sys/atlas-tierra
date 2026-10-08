@@ -1,0 +1,1016 @@
+[
+  {
+    "id": "estructura",
+    "title": "Organización del Ejército",
+    "url": "https://ejercito.defensa.gob.es/estructura/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "boe",
+    "title": "Orden DEF/708/2020, texto consolidado (modificación de 2024)",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-8636",
+    "publisher": "Boletín Oficial del Estado",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official",
+    "publicationDate": "2024-06-11"
+  },
+  {
+    "id": "fuerza",
+    "title": "Organización de la Fuerza",
+    "url": "https://ejercito.defensa.gob.es/estructura/2020/Fuerza.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "apoyo",
+    "title": "Organización del Apoyo a la Fuerza",
+    "url": "https://ejercito.defensa.gob.es/estructura/2020/apoyo_fuerza.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official",
+    "notes": "La página omite la Dirección de Ingeniería del MALE, incorporada en 2024. Se prioriza el BOE consolidado."
+  },
+  {
+    "id": "castillejos",
+    "title": "Castillejos: organización y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Huesca/div_castillejos/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "cast-local",
+    "title": "Castillejos: localización",
+    "url": "https://ejercito.defensa.gob.es/unidades/Huesca/div_castillejos/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "san-marcial",
+    "title": "San Marcial: organización y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Burgos/san_marcial/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "mam",
+    "title": "Mando de Apoyo a la Maniobra",
+    "url": "https://ejercito.defensa.gob.es/unidades/Coruna/mando_apoyo_maniobra/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "bri12",
+    "title": "Guadarrama XII: organización y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/briacxii/Organizacion/index.html?__locale=es",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "bri12-hist",
+    "title": "57 aniversario de Guadarrama XII",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/briacxii/Noticias/2023/07_Aniversario_brixii.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "rac61",
+    "title": "RAC 61: organización y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/rac61/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "rac61-local",
+    "title": "RAC 61: localización y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/rac61/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "ige",
+    "title": "IGE: organización y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Barcelona/ige/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official",
+    "notes": "La página cita la Instrucción 7/2016. Para dependencias se prioriza el BOE consolidado: las subinspecciones dependen de DIACU."
+  },
+  {
+    "id": "ige-local",
+    "title": "IGE: localización",
+    "url": "https://ejercito.defensa.gob.es/unidades/Barcelona/ige/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "diacu-local",
+    "title": "DIACU: localización",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/diacu/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "brileg",
+    "title": "Brigada de La Legión: organización",
+    "url": "https://ejercito.defensa.gob.es/unidades/Almeria/brileg/Organizacion/",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "centros",
+    "title": "Centros de formación",
+    "url": "https://ejercito.defensa.gob.es/personal/centros.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "agm",
+    "title": "Historia de la Academia General Militar",
+    "url": "https://ejercito.defensa.gob.es/unidades/Zaragoza/agm/Historial/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bri12-local",
+    "title": "Guadarrama XII: localización",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/briacxii/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "empecinado",
+    "title": "Visita institucional a El Empecinado (2022)",
+    "url": "https://ejercito.defensa.gob.es/en/personal/jeme/jeme-ensenat/actividades/2022/56-ministra-visita-empecinado.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "rac61-hist",
+    "title": "Historial del RAC 61",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/rac61/Historial/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "diin-local",
+    "title": "Dirección de Infraestructura: ubicación y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/diin/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "maper-local",
+    "title": "Mando de Personal: ubicación y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/maper/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "madoc-local",
+    "title": "MADOC: acuartelamientos y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Granada/madoc/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "diae-carta",
+    "title": "Carta de servicios DIAE 2024–2027",
+    "url": "https://ejercito.defensa.gob.es/Galerias/Descarga_pdf/Unidades/Madrid/diae/Carta_de_servicios_DIAE_2023_27.pdf",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "glosario-cia",
+    "title": "Compañía de Plana Mayor y Servicios del RINT 1",
+    "url": "https://ejercito.defensa.gob.es/unidades/Valencia/rinte1/Organizacion/uplms.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official",
+    "notes": "Referencia educativa de terminología; no se utiliza para incorporar efectivos ni procedimientos."
+  },
+  {
+    "id": "glosario-bripac",
+    "title": "BRIPAC: organización, misión y terminología",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/bripacii/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official",
+    "notes": "Se incorporan los nombres y relaciones explícitos de su lista de unidades, sin efectivos ni procedimientos."
+  },
+  {
+    "id": "diaper-madrid",
+    "title": "DIAPER: directorio de Madrid y abreviaturas de unidades",
+    "url": "https://ejercito.defensa.gob.es/diaper/-/madrid",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official",
+    "notes": "Utilizado para contrastar abreviaturas, no para inferir la dependencia actual de las unidades."
+  },
+  {
+    "id": "aragon-org",
+    "title": "Aragón I: presentación y composición actual",
+    "url": "https://ejercito.defensa.gob.es/unidades/Zaragoza/bri_aragon/",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "galicia-org",
+    "title": "Galicia VII: organización y organigrama 2026",
+    "url": "https://ejercito.defensa.gob.es/unidades/Pontevedra/brilat/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "guzman-org",
+    "title": "Guzmán el Bueno X: unidades y cometidos",
+    "url": "https://ejercito.defensa.gob.es/unidades/Cordoba/brimzx_guzmanelbueno/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "extremadura-org",
+    "title": "Extremadura XI: unidades y cometidos",
+    "url": "https://ejercito.defensa.gob.es/unidades/Badajoz/bri_extremadura_xi/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "canarias-org",
+    "title": "Canarias XVI: organigrama publicado",
+    "url": "https://ejercito.defensa.gob.es/unidades/Las_Palmas/brilcanxvi/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official",
+    "notes": "Composición transcrita del organigrama insertado, archivo de 2023. No se usa la ausencia de una unidad como prueba de disolución."
+  },
+  {
+    "id": "brilog-org",
+    "title": "Brigada Logística: organización y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Zaragoza/cgbl/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "pavia-org",
+    "title": "Pavía 4: organización y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Zaragoza/rac4/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "cordoba-org",
+    "title": "Córdoba 10: organización e historia",
+    "url": "https://ejercito.defensa.gob.es/unidades/Cordoba/brimzx_guzmanelbueno/Organizacion/RAC_N.10/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "barcelona-org",
+    "title": "Barcelona 63: organización y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Barcelona/ri63/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "arapiles-org",
+    "title": "Arapiles 62: organización y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Gerona/rczm_arapiles62/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "principe-org",
+    "title": "Príncipe 3: historia y batallones",
+    "url": "https://ejercito.defensa.gob.es/unidades/Pontevedra/brilat/Organizacion/Ril_3.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "isabel-org",
+    "title": "Isabel la Católica 29: organización e historia",
+    "url": "https://ejercito.defensa.gob.es/unidades/Pontevedra/brilat/Organizacion/Ril_29.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "farnesio-org",
+    "title": "Farnesio 12: organización e historia",
+    "url": "https://ejercito.defensa.gob.es/unidades/Pontevedra/brilat/Organizacion/Farnesio.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "castillejos-actual",
+    "title": "Castillejos: incorporación del España 11 desde 2023",
+    "url": "https://ejercito.defensa.gob.es/unidades/Huesca/div_castillejos/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "soria-org",
+    "title": "Soria 9: organización y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Las_Palmas/ril9/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "tenerife-org",
+    "title": "Tenerife 49: estructura del regimiento",
+    "url": "https://ejercito.defensa.gob.es/personal/Escudos/estructura_regimiento_infanteria_tenerife_49.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "cerinola-org",
+    "title": "Canarias 50: denominación del Ceriñola I/50",
+    "url": "https://ejercito.defensa.gob.es/unidades/Las_Palmas/ril50/Noticias/2023/EX-BETA-02-23-Batallon-de-Infanteria-Motorizada-BIMT-Cerinola-I-50.html",
+    "publisher": "Ejército de Tierra",
+    "retrievedAt": "2026-10-08",
+    "sourceType": "official"
+  },
+  {
+    "id": "aragon-local",
+    "title": "Aragón I: direcciones y teléfonos",
+    "url": "https://ejercito.defensa.gob.es/unidades/Zaragoza/bri_aragon/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "galicia-local",
+    "title": "Galicia VII: localización y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Pontevedra/brilat/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "guzman-local",
+    "title": "Guzmán el Bueno X: localización y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Cordoba/brimzx_guzmanelbueno/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "extremadura-local",
+    "title": "Extremadura XI: contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Badajoz/bri_extremadura_xi/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "asturias-org",
+    "title": "Asturias 31: organización y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/asturias31/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "asturias-hist",
+    "title": "Asturias 31: historial",
+    "url": "https://ejercito.defensa.gob.es/en/unidades/Madrid/asturias31/Historial/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "asturias-local",
+    "title": "Asturias 31: localización",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/asturias31/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "pavia-hist",
+    "title": "Pavía 4: historial",
+    "url": "https://ejercito.defensa.gob.es/unidades/Zaragoza/rac4/Historial/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "pavia-local",
+    "title": "Pavía 4: localización y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Zaragoza/rac4/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "arapiles-hist",
+    "title": "Arapiles 62: heráldica y batallón Badajoz",
+    "url": "https://ejercito.defensa.gob.es/unidades/Gerona/rczm_arapiles62/Historial/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "barcelona-hist",
+    "title": "Barcelona 63: historial y heráldica",
+    "url": "https://ejercito.defensa.gob.es/unidades/Barcelona/ri63/Historial/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "legion-hist",
+    "title": "La Legión: formación de la brigada y guarniciones",
+    "url": "https://ejercito.defensa.gob.es/gl/unidades/Almeria/brileg/Historial/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "legion-local",
+    "title": "La Legión: bases de Viator y Ronda",
+    "url": "https://ejercito.defensa.gob.es/unidades/Almeria/brileg/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "colon-centenario",
+    "title": "VIII Bandera Colón: centenario, 2026",
+    "url": "https://ejercito.defensa.gob.es/va/unidades/Almeria/brileg/Noticias/2026/05_VIII_Bandera_Colon_Aniversario_y_Bautismo_de_fuego.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "garellano-org",
+    "title": "Garellano 45: organización y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Vizcaya/ril45/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "guipuzcoa-hist",
+    "title": "Guipúzcoa I/45: historial",
+    "url": "https://ejercito.defensa.gob.es/unidades/Vizcaya/ril45/Historial/Historialgarellano.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "garellano-hist",
+    "title": "Memorial de Infantería 84: 150 años del Garellano",
+    "url": "https://ejercito.defensa.gob.es/unidades/Toledo/acinf/Publicaciones/84/2_Herencia_Articulo_Institucional_RI_45.pdf",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "garellano-local",
+    "title": "Garellano 45: localización y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Vizcaya/ril45/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "sicilia-hist",
+    "title": "Tercio Viejo de Sicilia 67: historial",
+    "url": "https://ejercito.defensa.gob.es/unidades/Guipuzcoa/ril67/Historial/HistorialRIL.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "legazpi-hist",
+    "title": "Legazpi I/67: historial",
+    "url": "https://ejercito.defensa.gob.es/unidades/Guipuzcoa/ril67/Historial/HistorialBil.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "sicilia-local",
+    "title": "Sicilia 67: localización y secretaría",
+    "url": "https://ejercito.defensa.gob.es/unidades/Guipuzcoa/ril67/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "saboya-hist",
+    "title": "Saboya 6: reseña histórica",
+    "url": "https://ejercito.defensa.gob.es/eu/unidades/Badajoz/bri_extremadura_xi/Organizacion/RI_6/RI_SABOYA.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "castilla-hist",
+    "title": "Castilla 16: historial",
+    "url": "https://ejercito.defensa.gob.es/unidades/Badajoz/bri_extremadura_xi/Organizacion/RAC_16/RAC16.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "america-org",
+    "title": "América 66: organización y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Navarra/rczm/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "america-hist",
+    "title": "América 66: historial y patrona",
+    "url": "https://ejercito.defensa.gob.es/gl/unidades/Navarra/rczm/Historial/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "soria-hist",
+    "title": "Soria 9: historial institucional",
+    "url": "https://ejercito.defensa.gob.es/unidades/Las_Palmas/ril9/Historial/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "tenerife-hist",
+    "title": "Tenerife 49: historial",
+    "url": "https://ejercito.defensa.gob.es/unidades/Santa_Cruz_De_Tenerife/ril49/Historial/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "canarias-hist",
+    "title": "Canarias 50: origen y evolución",
+    "url": "https://ejercito.defensa.gob.es/unidades/Las_Palmas/ril50/Historial/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "raca93-hist",
+    "title": "RACA 93: antecedente fundacional de 1882",
+    "url": "https://ejercito.defensa.gob.es/unidades/Santa_Cruz_De_Tenerife/raca93/Noticias/2021/20210609_139_anos_de_vida_e_historia_del_RACA93.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bhelma3-info",
+    "title": "BHELMA III: misión, medios y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/La_Rioja/bhelma3.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "napoles-info",
+    "title": "Nápoles 4: historia, organización y material",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/bripacii/Organizacion/RIPAC_Napoles_4.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08",
+    "notes": "La tabla de misiones nacionales contiene fechas incoherentes; no se incorporan esas fechas."
+  },
+  {
+    "id": "zaragoza-info",
+    "title": "Zaragoza 5: constitución en 2016",
+    "url": "https://ejercito.defensa.gob.es/gl/unidades/Madrid/bripacii/Organizacion/RIPAC_Zaragoza_5.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "roger-flor-info",
+    "title": "Roger de Flor I/4: historial y localización",
+    "url": "https://ejercito.defensa.gob.es/de/unidades/Madrid/bripacii/Organizacion/Bandera_Roger_de_Flor.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "roger-lauria-info",
+    "title": "Roger de Lauria II/4: historia, misión y localización",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/bripacii/Organizacion/Bandera_Roger_de_Lauria.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "ortiz-info",
+    "title": "Ortiz de Zárate III/5: historial y localización",
+    "url": "https://ejercito.defensa.gob.es/it/unidades/Madrid/bripacii/Organizacion/Bandera_Ortiz_de_Zarate.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "galicia64-hist",
+    "title": "Galicia 64 y Pirineos I/64: historial",
+    "url": "https://ejercito.defensa.gob.es/en/unidades/Huesca/rczm_galicia64/Historial/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "galicia64-local",
+    "title": "Galicia 64: plana mayor en San Bernardo y Pirineos en La Victoria",
+    "url": "https://ejercito.defensa.gob.es/unidades/Huesca/rczm_galicia64/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "america-local",
+    "title": "América 66: localización y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Navarra/rczm/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "reina-info",
+    "title": "La Reina 2: historia y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Cordoba/brimzx_guzmanelbueno/Organizacion/RI_N.2/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "lusitania-hist",
+    "title": "Lusitania 8: origen histórico",
+    "url": "https://ejercito.defensa.gob.es/unidades/Zaragoza/bri_aragon/Noticias/2016/12._LIBRO_SOBRE_LOS_DRAGONES_DE_LUSITANIA.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "raca20-hist",
+    "title": "RACA 20: historial",
+    "url": "https://ejercito.defensa.gob.es/unidades/Zaragoza/raca20/Historial/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "raca20-local",
+    "title": "RACA 20: localización y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Zaragoza/raca20/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "soria9-local",
+    "title": "Acuartelamiento Puerto del Rosario: localización y contacto de soria9",
+    "url": "https://ejercito.defensa.gob.es/unidades/Las_Palmas/ril9/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "canarias50-local",
+    "title": "Base General Alemán Ramírez: localización y contacto de canarias50",
+    "url": "https://ejercito.defensa.gob.es/unidades/Las_Palmas/ril50/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "tenerife49-local",
+    "title": "Acuartelamiento Hoya Fría: localización y contacto de tenerife49",
+    "url": "https://ejercito.defensa.gob.es/unidades/Santa_Cruz_De_Tenerife/ril49/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "raca93-local",
+    "title": "Acuartelamiento Los Rodeos: localización y contacto de raca93",
+    "url": "https://ejercito.defensa.gob.es/unidades/Santa_Cruz_De_Tenerife/raca93/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bhela1-info",
+    "title": "Batallón de Helicópteros de Ataque I: misión y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/famet/Historial/Ucos/BI/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bheleme2-info",
+    "title": "Batallón de Helicópteros de Emergencias II: misión y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/famet/Historial/Ucos/BII/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bhelma4-info",
+    "title": "Batallón de Helicópteros de Maniobra IV: misión y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/famet/Historial/Ucos/BIV/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bheltra5-info",
+    "title": "Batallón de Helicópteros de Transporte V: misión y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/famet/Historial/Ucos/BV/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bhelma4-hist",
+    "title": "BHELMA IV: historia",
+    "url": "https://ejercito.defensa.gob.es/Galerias/Descarga_pdf/Unidades/Madrid/famet/ucos_h/HISTORIA_BIV.pdf",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bheltra5-hist",
+    "title": "Tierra 111 (2025): origen del BHELTRA V",
+    "url": "https://ejercito.defensa.gob.es/Galerias/multimedia/boletines/2025/111/accesible/tierra-digital-111.pdf",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "guadarrama-hist",
+    "title": "Guadarrama XII: historial de sus batallones",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/briacxii/Historial/",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bz7-info",
+    "title": "Zapadores VII: historial, misión y organización",
+    "url": "https://ejercito.defensa.gob.es/unidades/Pontevedra/brilat/Organizacion/Zapadores.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bcg7-info",
+    "title": "Cuartel General VII: historial y misión",
+    "url": "https://ejercito.defensa.gob.es/unidades/Pontevedra/brilat/Organizacion/Batallon_cuartel_general.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bz16-hist",
+    "title": "Zapadores XVI: historial institucional, revisión de 2016",
+    "url": "https://ejercito.defensa.gob.es/Galerias/Imagenes/unidades/Santa_Cruz_De_Tenerife/bonzapa_xvi/HPDF.pdf",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "barcelona-presentacion",
+    "title": "Barcelona 63: presentación y material del Cataluña",
+    "url": "https://ejercito.defensa.gob.es/en/unidades/Barcelona/ri63/",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bripac-org",
+    "title": "BRIPAC: organización y materiales",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/bripacii/Organizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bz6-vjtf",
+    "title": "Tierra digital 46: Zapadores VI en la preparación de VJTF 2020",
+    "url": "https://ejercito.defensa.gob.es/Galerias/multimedia/boletines/2019/046/accesible/digital_tierra_046.pdf",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "aragon-libano2024",
+    "title": "Defensa: regreso de Aragón I de Líbano, noviembre de 2024",
+    "url": "https://www.defensa.gob.es/gabinete/notasPrensa/2024/11/DGC-241124-regreso-brigada-aragon.html",
+    "publisher": "Ministerio de Defensa",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "cerinola-bastion",
+    "title": "Ceriñola y Cuartel General XVI: ejercicio Bastión Canario, 2022",
+    "url": "https://ejercito.defensa.gob.es/de/unidades/Las_Palmas/ril50/Noticias/2022/Ejercicio-Beta-Bastion-Canario.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bcg6-info",
+    "title": "Cuartel General VI: historia, organización y misión",
+    "url": "https://ejercito.defensa.gob.es/en/unidades/Madrid/bripacii/Organizacion/Batallon_Cuartel_General.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "badajoz-hist",
+    "title": "Badajoz I/62: historial institucional",
+    "url": "https://ejercito.defensa.gob.es/en/unidades/Gerona/rczm_arapiles62/Historial/historialbadajoz.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "badajoz-material",
+    "title": "Tierra 111 (2025), páginas 19–22: Badajoz mecanizado",
+    "url": "https://ejercito.defensa.gob.es/Galerias/multimedia/boletines/2025/111/accesible/tierra-digital-111.pdf",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "valenzuela-hist",
+    "title": "IHCM: centenario de la VII Bandera Valenzuela",
+    "url": "https://ejercito.defensa.gob.es/gl/unidades/Madrid/ihycm/Mecedora/20231211-mecedora-madrid.html?__locale=gl",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08",
+    "notes": "Página de contenidos actualizados que conserva una fecha de cabecera de 2023; la reseña del centenario se refiere a 2025."
+  },
+  {
+    "id": "bhela1-hist",
+    "title": "BHELA I: historial",
+    "url": "https://ejercito.defensa.gob.es/Galerias/Descarga_pdf/Unidades/Madrid/famet/ucos_h/BHELA_I_HISTORIA.pdf",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "bhelma3-hist",
+    "title": "BHELMA III: historial y lema",
+    "url": "https://ejercito.defensa.gob.es/Galerias/Descarga_pdf/Unidades/Madrid/famet/UCOS/HISTORIA_BIII.pdf",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08",
+    "notes": "Las fuentes difieren en el día de constitución de UHEL III (mayo o noviembre de 1974); se conserva únicamente el año."
+  },
+  {
+    "id": "bheleme2-hist",
+    "title": "FAMET: creación del BHELEME II en 2008",
+    "url": "https://ejercito.defensa.gob.es/Galerias/Descarga_pdf/EjercitoTierra/desfiles_actos/dia_fiesta_nacional_2016/2016_historial_unidades_famet.pdf",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "tercio3-fundacion",
+    "title": "Revista Ejército 886 (2015), páginas 48–50: fundación del Tercio 3º",
+    "url": "https://ejercito.defensa.gob.es/Galerias/multimedia/revista-ejercito/2015/Revista_Ejercito_886_Enero_2015.pdf",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08",
+    "notes": "El artículo explica que el EME resolvió en 2006 la discrepancia 1939/1940 y fijó el 21 de diciembre de 1939 como fecha oficial."
+  },
+  {
+    "id": "tercio4-hist",
+    "title": "Dossier institucional 2016: Tercio 4º y X Bandera",
+    "url": "https://ejercito.defensa.gob.es/Galerias/Descarga_pdf/EjercitoTierra/desfiles_actos/dia_fiesta_nacional_2016/2016_historial_tercio_legion.pdf",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "principe-local",
+    "title": "Príncipe 3: localización y teléfono",
+    "url": "https://ejercito.defensa.gob.es/unidades/Asturias/ril3/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "farnesio-local",
+    "title": "Farnesio 12: localización y teléfono",
+    "url": "https://ejercito.defensa.gob.es/unidades/Valladolid/farnesio12/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "espana-local",
+    "title": "España 11: localización y contacto",
+    "url": "https://ejercito.defensa.gob.es/unidades/Zaragoza/rclac11/Localizacion/index.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "lusitania-info",
+    "title": "Lusitania 8: historial y sede en Marines",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/bripacii/Organizacion/RCAB_Lusitania_8.html?__locale=es",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "zaragoza-local",
+    "title": "Zaragoza 5: Santa Bárbara, central y secretaría",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/bripacii/Localizacion/acto-santa-barbara.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "lusitania-local",
+    "title": "Lusitania 8: secretaría regimental y central de la base",
+    "url": "https://ejercito.defensa.gob.es/unidades/Madrid/bripacii/Localizacion/base-gral-almirante1.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "merida-encuadre",
+    "title": "MADOC (2025): Batallón Mérida I/16 del Castilla 16",
+    "url": "https://ejercito.defensa.gob.es/fr/unidades/Granada/madoc/Noticias/2025/11-El-combate-de-ULUS-KERT-2-Guerra-de-Chechenia-ano-2000.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "montejurra-hist",
+    "title": "Montejurra: antecedentes e historial del batallón",
+    "url": "https://ejercito.defensa.gob.es/unidades/Navarra/rczm/Historial/montejurra.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08",
+    "notes": "La página conserva la antigua numeración II/66. El encuadramiento actual se documenta con la página de organización del América 66."
+  },
+  {
+    "id": "castilla-aniversario-2018",
+    "title": "Castilla 16: 225 aniversario y trayectoria del Batallón Mérida (2018)",
+    "url": "https://ejercito.defensa.gob.es/reportajes/2018/66_heroe_cumple_225_annos.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08",
+    "notes": "El reportaje identifica al Mérida con la antigua numeración II/16; se prioriza la publicación del MADOC de 2025 para la numeración actual I/16."
+  },
+  {
+    "id": "bhelma4-nh90-2026",
+    "title": "BHELMA IV: recepción del primer NH-90, septiembre de 2026",
+    "url": "https://ejercito.defensa.gob.es/actualidad/2026/09/17149-nh-90.html",
+    "publisher": "Ejército de Tierra",
+    "sourceType": "official",
+    "retrievedAt": "2026-10-08",
+    "publishedAt": "2026-09-24"
+  }
+]
